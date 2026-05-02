@@ -1,0 +1,16 @@
+{
+  "name": "affordmed-logging-middleware",
+  "version": "1.0.0",
+  "description": "Reusable logging middleware package for Affordmed Campus Hiring Evaluation",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "dev": "ts-node index.ts"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.0",
+    "ts-node": "^10.9.0",
+    "@types/node": "^20.0.0"
+  }
+}
